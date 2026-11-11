@@ -1,0 +1,412 @@
+官僚 / Bureaucrat / [burocrata?/departamentista?]
+
+山狗 / Mountain Dog / Yamainu
+
+//OBS: só inglês
+
+15 //REVISAR
+"As luzes vieram na sala de reuniões quando a apresentação de slides acabou e todos os [auditors] começaram a aplaudir, [praising] os [dramatic accomplishments] do Instituto Irie."
+
+21
+"\"Maravilhoso, absolutamente maravilhoso!"
+
+"Falando honestamente, eu não esperava tanto dessa pesquisa da Síndrome de Hinamizawa.\""
+
+30
+"\"Eu achei que, mesmo se tivesse progresso, seriam três passos para frente, dois passos para trás a cada década.\""
+
+36
+//JP
+
+//REVISAR
+"Que impressionante é [achieve] tanto em tão pouco tempo!"
+
+"Isso é tudo graças a você, Diretor Irie!\""
+
+52
+"\"Ah, não."
+
+"Isso tudo foi graças aos funcionários que me apoiaram, e à Takano-san também.\""
+
+65
+"\"Não seja tão humilde."
+
+"Hihihi."
+
+"O Diretor Irie é um gênio no campo da neurologia."
+
+//REVISAR
+"Afinal, ele produziu [greater achievements] do que qualquer outro médico quando é em relação ao cérebro.\""
+
+80
+"\"É verdade!"
+
+//DEVENDO
+
+93 //REVISAR
+"\"Parabéns, [Liutenant Colonel] Irie!"
+
+//REVISAR
+"Agora posso ir para Tóquio com a minha cabeça [held high].\""
+
+105
+"\"Me sinto honrado por te darmos algo bom para levar na volta, Tomitake-san."
+
+"A propósito, você poderia, por favor, parar de me chamar de [Liutenant Colonel]? Eu só não consigo me acostumar..."
+
+"A esse ponto, estou quase preferindo 'Risa-san'."
+
+121
+//IGUAL
+
+//DEVENDO
+
+133
+
+"\"Hihi."
+
+"Mas você também foi uma ótima ajuda, Jirou-san."
+
+//REVISAR
+"Foi você quem assegurou o investimento na nossa pesquisa, mesmo quando não alcançamos resultados [feasible]. Não conseguiríamos ter feito tanto sem você.\""
+
+145
+"\"Não é pra tanto... ha ha ha ha...!"
+
+"Mas os resultados que vocês apresentaram hoje são simplesmente brilhantes!"
+
+"Não só vocês encontraram a causa da síndrome, vocês providenciaram um caminho claro para pesquisas futuras."
+
+"Estamos ansiosos para ouvir mais progresso quando voltarmos da próxima vez.\""
+
+161 //REVISAR
+"\"Tenho certeza que [the Tokyo office] vai parar de nos incomodar para cortar o [budget] de vocês com esses resultados.\""
+
+170
+"\"Hihi."
+
+//REVISAR
+"Afinal, nós quase perdemos o nosso [budget] pelo [caned coffee] que demos a vocês, não foi?\""
+
+181
+//IGUAL
+
+188
+"\"Tomitake-kun, se certifique de relatar o nosso progresso à Tóquio tão bem que eles nos dêem investimento o suficiente para fazer uma festa!\""
+
+194
+//JP
+
+203
+//JP
+
+211
+//IGUAL
+
+219 //REVISÃO
+"E com esta atmosfera [congenial], nossa auditoria rotineira estava concluída."
+
+224 //REVISAR
+"Irie estava cercado e sendo questionado pelos trabalhadores do [National Institute of Infectious Diseases] que se juntaram aos [auditors]."
+
+233
+"\"Takano-san, parabéns!"
+
+242
+"Eu não posso dizer isso na frente de todo mundo, mas todo o progresso que vimos hoje à noite foi graças ao seu [hard work].\""
+
+251
+"\"Hihi."
+
+"Obrigada, Jirou-san.\""
+
+259
+"Jirou-san e eu somos os únicos aqui que sabem que as linhas foram puxadas para criar o Instituto Irie."
+
+267
+"...Então só o Jirou-san podia entender o que eu tive que passar."
+
+276
+"\"Mas eu só subi ao palco por causa da minha pesquisa."
+
+"Meu oponente e eu finalmente estamos na mesma arena, só isso."
+
+"A luta crítica vem depois disso."
+
+//REVISAR
+"E deve ficar ainda mais [exciting] no futuro.\""
+
+294
+"\"Ahahahaha."
+
+//REVISAR
+"Aliás, o [Manager] Nakagawa falou que ele quer que você faça uma apresentação na Tóquio."
+
+//REVISAR
+"Até o [Alphabet board] quer que você se encontre com eles."
+
+"Eu acho que todos eles querem ouvir isso diretamente de você.\""
+
+313
+"\"[Oh my], você explicando já não é o suficiente?\""
+
+322
+Nah -> Não
+
+"N-Não deve ser isso que eles quiseram dizer...!"
+
+//REVISAR
+"D-Deve ser que eles querem encontrar pessoalmente uma pesquisadora tão bonita, [maybe], ah ha ha ha...!\""
+
+334
+//JP
+
+"Hihihi.\""
+
+344
+"\"Com licença."
+
+//REVISAR
+"[Major] Takano, tem uma chamada para você dá Tóquio."
+
+356
+//JP - omataseshichatte gomengomen
+
+"Takano falando.\""
+
+368
+"\"E aííí, tá bem?!\""
+
+374
+//IGUAL
+
+//JP
+
+383
+//IGUAL
+
+//REVISAR
+"Então, eu fiquei sabendo que você fez um [significant breakthrough], Miyo-chan."
+
+"Daí eu quis ligar pra te parabenizar.\""
+
+395
+"\"Muito obrigada...!!"
+
+"Sim, graças à sua ajuda, nós conseguimos concluir o primeiro passo de identificar o micróbio que causa a Síndrome de Hinamizawa.\""
+
+404
+"\"Hmm-hmm,"
+
+"Entendi, entendi!!"
+
+//REVISAR
+"[ついにやったなぁ], Miyo-chan!"
+
+"Tenho certeza que o Takano-kun tá muito feliz agora no Céu!!\""
+
+421
+"\"Ainda é meio cedo."
+
+"Meu avô estava tentando ir além de simplesmente identificar a causa da síndrome."
+
+"O trabalho dele era sobre mostrar a possibilidade de que pensamentos humanos podem ser controlados por agentes parasitas nos nossos corpos."
+
+//REVISAR
+"...Só quando isso for provado que a pesquisa dele vai ser reconhecida pelo [great achievement] que ela é."
+
+"Hihi."
+
+"Quando conseguirmos explicar todos os pensamentos e religiões com parasitas,"
+
+//REVISAR
+"hihi, o mundo vai ser [tossed] em caos.\""
+
+446
+"\"Wa ha ha ha. Que interessante!!"
+
+//REVISAR
+"Eu quero só ver como aqueles [BIG SHOTS] religiosos vão reagir quando descobrirem que os líderes deles são parasitas!! Que interessante!"
+
+"Eu quero demais ver isso."
+
+"Eu não vou morrer até você me mostrar isso, Miyo-chan.\""
+
+462
+"\"Por favor, não diga isso."
+
+//REVISAR
+"Mas [look forward to it]."
+
+"Eu vou fazer com que essa pesquisa espalhe choque pelo mundo."
+
+//REVISAR
+"Então o mundo inteiro vai finalmente perceber o quão [great] era o meu avô e eles vão [fighting each other] para ler os documentos que ele deixou para trás."
+
+//REVISAR
+"Só então eu vou poder dizer que eu [repaid my debt] a ele.\""
+
+481
+"\"......Tô meio com inveja do Takano-kun~."
+
+"Eu nem quero dinheiro."
+
+//REVISAR
+"E tanto faz também se eu [getting rid] de metade do que eu tenho."
+
+"Eu só queria ter uma neta que carregasse o meu legado.\""
+
+496
+"\"Muito obrigada."
+
+//DEVENDO
+
+505
+"\"E também, eu te mandei um presente."
+
+//REVISAR
+"É uma garrafa de vinho [nice] pra você comemorar."
+
+"Eu não sabia o seu endereço, então mandei pro da clínica."
+
+"Só que me disseram que tão com dificuldade de importar, então talvez demore um pouquinho. Mas quando chegar, faça uma festa com o pessoal que te ajudou.\""
+
+521
+//JP
+
+//REVISAR
+"[はてさて], até imagino que tipo de bebida cara você mandou pra gente, Koizumi-sensei!\""
+
+530
+"\"Ah, não é tão cara assim."
+
+"Não lembra não, Miyo-chan?"
+
+"O Takano-kun sempre guardava uma garrafa de vinho.\""
+
+543
+"...Eu lembro..."
+
+548
+"Isso mesmo. Meu avô sempre guardava uma certa garrafa de vinho."
+
+556
+"Eu não sei se ele mesmo comprou ou se alguém deu a ele,"
+
+"mas ele guardava e sempre dizia que só abriria quando a pesquisa dele finalmente recebesse reconhecimento."
+
+566
+"Eu era uma criança, então não lembro que marca era, mas o Koizumi saberia."
+
+571
+"Ele se deu o trabalho de procurar a mesma garrafa de vinho para essa ocasião especial."
+
+576 //REVISAR: mudou a narração?
+"......Pela primeira vez em algum tempo, Takano sentiu o mesmo [sunny warmth] que ela experienciava durante o tempo com o avô."
+
+582
+"\"Muito obrigada..."
+
+"...Tio Koizumi...\""
+
+591
+//IGUAL
+
+"Eu gosto quando você me chama assim, Miyo-chan!"
+
+"Eu não sinto que você tá falando comigo quando você diz 'Koizumi-sensei'."
+
+!! -> !
+
+604
+"Não consigo evitar sorrir com ele..."
+
+609 //REVISAR
+"Porque acho que, agora há pouco, Tomitake e Irie estavam tendo uma [exchange] parecida."
+
+615
+"\"Se você gosta assim, então eu fico feliz de te chamar assim quando não tiver mais ninguém ao redor."
+
+"Hihi.\""
+
+624
+"\"Hmmm, eu ficaria ainda mais feliz se você me chamasse assim até na frente das pessoas!"
+
+//IGUAL
+
+634
+"Eu não sei exatamente o quão velho ele é."
+
+"Mas se ele ainda consegue rir com tanta energia, ele deve viver por mais muitos anos."
+
+641
+//JP
+
+647
+"\"Tanto o Takano-kun quanto eu queríamos que você fosse parte da nossa família de verdade."
+
+"Queríamos mesmo...\""
+
+657
+"...Meu avô tinha a própria família, é claro."
+
+665 //REVISAR
+"Mas como ele era tão focado na pesquisa, ele ficou [estranged] da esposa. Eles eram casados legalmente, mas viviam separados."
+
+670
+"Eu nunca conheci a família dele quando era criança."
+
+"Eu só conheci eles... depois que meu avô cometeu suicídio."
+
+680
+"Durante os últimos anos dele, meu avô ficou em desespero psicológico e começou a ver a própria vida com cinismo."
+
+685
+"A condição dele ficou pior com o tempo e ele ficou chocado com a própria demência. Ele ficou com medo de continuar vivendo enquanto a consciência dele degradava."
+
+690
+"Então... ele pulou do teto do hospital."
+
+698
+"Só o meu nome estava na nota de suicídio dele."
+
+703
+"O nome de nenhum dos membros da família dele estava nela."
+
+708
+"Foi então que todos os parentes dele apareceram e pegaram tudo o que o meu avô deixou para trás."
+
+716 //REVISAR
+"Eles tinham medo de que eu fosse pegar o [estate] dele."
+
+721
+"Eles tinham advogados e tudo mais, então eu recuei."
+
+726 //REVISAR
+"Em compensação, eu pedi por tudo no [study] dele."
+
+734
+"Aqueles idiotas não entendem o valor da pesquisa do meu avô."
+
+739
+"Na verdade, eles estavam felizes de resolver a situação fora do tribunal, além de que eles podiam se livrar das pilhas de papéis e jarras com órgãos humanos."
+
+746
+"Eles nunca apareceram quando ele estava vivo, ainda assim, como hienas, apareceram depois da morte dele. Eu nunca deixaria que eles colocassem as mãos na pesquisa do meu avô."
+
+754 //REVISAR
+"Felizmente, eu consegui proteger a pesquisa do meu avô das mãos [tainted] deles."
+
+760
+//IGUAL
+
+//DEVENDO
+
+"Se precisar de qualquer coisa, só chamar o Tio Koizumi, tá bom?"
+
+"Eu faço de tudo pela minha neta!\""
+
+775
+"\"Obrigada, Tio Koizumi."
+
+//DEVENDO

@@ -1,0 +1,505 @@
+役人 / Government Official / [Government Official]
+
+//OBS: só inglês
+
+12 //REVISAR: de repente?
+"......Aconteceu tão de repente."
+
+17
+"O Tio Koizumi faleceu."
+
+25
+"Eu nunca ouvi que ele estava doente ou se sentindo mal."
+
+30
+"O peito dele começou a doer do nada e ele não conseguia dormir."
+
+35
+"Ele chamou uma ambulância pela primeira vez na vida porque ele achava que não conseguia aguentar a dor."
+
+40 //REVISAR
+"Ele foi levado para a [emergency care], mas não [live to see morning]."
+
+45 //REVISAR
+"Era um [acute myocardial infarction]."
+
+50
+"......Mas talvez tenha sido a melhor forma de ir."
+
+58 //REVISAR
+"Em vez de ficar na cama por anos, [slowly dilapidating and withering away], ele esteve saudável até a morte, então acredito que ela tenha vivido uma vida maravilhosa."
+
+63 //REVISAR: de repente?
+"Mas... ainda foi tão de repente."
+
+70
+"Eu queria que eu tivesse chamado ele de 'Tio' mais vezes."
+
+75
+"Agora é tarde demais."
+
+83 //REVISAR
+"......O Tio Koizumi nunca mais sorriria para mim com a [wrinkly old face] dele, mesmo que eu chamasse várias vezes."
+
+88 //REVISAR
+"......Ele era o meu [guardian] até agora."
+
+93 //REVISAR
+"Ele sempre [looked after me], sempre fazia com que meus esforços recebessem o reconhecimento devido."
+
+101
+"Talvez ele só fazia isso porque não conseguiu ajudar o meu avô quando ele estava vivo."
+
+"Mas ele ainda era uma pessoa importante para mim."
+
+//REVISAR
+"Ele não era só o meu [political backing]."
+
+110
+"Mas eu não percebi isso enquanto ele ainda estava vivo."
+
+115 //REVISAR
+"Eu só pensei em usar o poder dele pela minha própria [agenda]."
+
+120
+"Mas, depois que ele morreu, eu percebi."
+
+125
+"O Tio Koizumi era o meu avô também."
+
+130 //REVISAR
+"Ele providenciou o [warmth] e a proteção que eu [longed for] do meu próprio avô."
+
+137
+"No funeral dele, eu chorei de um jeito que achei que tinha esquecido como."
+
+143
+"\"...Tio..."
+
+"Obrigada por tudo..."
+
+"Eu deveria ter te chamado de Tio mais vezes, né?"
+
+//DEVENDO
+
+154
+"Independentemente de quantas vezes eu chamasse, ele nunca responderia."
+
+162
+"A esse ponto, tudo o que eu posso fazer por ele é terminar a pesquisa."
+
+167
+"Eu preciso cumprir o meu objetivo pelo bem dele."
+
+172 //REVISAR
+"Quando a pesquisa do meu avô for finalmente reconhecida, o nome do Tio Koizumi vai ser conhecido mais uma vez por ser o único apoiador do [endeavor] dele."
+
+177 //REVISAR
+"Acredito que essa seja a melhor forma de [repay] por tudo o que ele fez."
+
+184 //REVISAR
+"Eu juro [devote myself] à minha pesquisa ainda mais a partir de hoje..."
+
+192
+"Mas..."
+
+"infelizmente..."
+
+"...dificuldades e tristezas tendem a se juntar."
+
+204 //REVISAR
+"Era como se o [tailwind] que soprava [steadily] até hoje..."
+
+//REVISAR
+"de repente, se tornasse um [headwind]."
+
+217
+"...Os ventos mudaram rápido demais."
+
+"Tão forte,"
+
+"tão frio,"
+
+"tão triste."
+
+241
+Eh -> Hã
+
+"Do que você tá falando, Jirou-san?\""
+
+253
+"\"...É."
+
+"Você sabe que o Koizumi-sensei era o principal patrocinador político do Instituto Irie, né? ...Ele teve dificuldade em conseguir aprovação das agências relacionadas, mas usou o peso político dele pra forçar assim mesmo."
+
+//REVISAR
+"...No fim, ele era uma das figuras chave na restauração pós-guerra, [accomplishing] feitos tremendos na indústria médica."
+
+"Ele tinha uma enorme influência na política e na indústria.\""
+
+267
+"\"Então, agora que o Koizumi-sensei se foi, o jeito que ele fazia as coisas não vai mais funcionar?\""
+
+276
+"\"Até agora é só rumor, então não tenho certeza."
+
+//REVISAR
+"Mas fiquei sabendo que eles vão reconsiderar o orçamento [allocated] para o projeto.\""
+
+284
+"\"Você tá dizendo que o Instituto Irie vai ser fechado?\""
+
+292 //REVISAR
+"\"Não, não fiquei sabendo de eles reconsiderarem o Instituto. ...Mas, desde a morte do Koizumi-sensei, os rumores dizem que tem [a great deal] de confusão entre a velha guarda e as facções deles, além da [civil strife] dentro do partido sobre achar um sucessor."
+
+"Parece que as facções opositoras tão ganhando influência nos recursos humanos do nosso cliente."
+
+//REVISAR
+"Então talvez comecem a cavar fundo dentro do baú do tesouro sagrado que a facção Koizumi manteve para [fund] o projeto."
+
+"Claro, é complicado demais pra eu explicar direito"
+
+"além de que tudo pode ser só rumores.\""
+
+310
+"Jirou-san continuava dizendo que eram só rumores,"
+
+"mas isso me dizia que a direção do vento mudou."
+
+323
+"Ou talvez... o Jirou-san já sabe de tudo e simplesmente está tentando me avisar."
+
+330
+"E, então, a nossa próxima auditoria rotineira."
+
+335
+"O Jirou-san deixou bem claro com a própria boca dele."
+
+340 //REVISAR
+"[officials] de alto escalão do governo, que nunca vieram aqui antes, compareceram à auditoria rotineira junto com o Jirou-san."
+
+345
+"Só de ver esses rostos, sei que o ponto de virada está se aproximando."
+
+359 //REVISAR
+"\"Como vocês sabem, o Alphabet Project foi criado para fortalecer a presença do Japão pós-guerra no mundo com a [view] de desenvolver [deterrent weaponry]."
+
+//REVISAR
+"Entretanto, o século 21 está [just around the corner]."
+
+//REVISAR
+"[In this day and age], precisamos deixar o passado para trás e começar a olhar em direção a um novo mundo.\""
+
+370
+//DEVENDO
+
+375
+"O Japão já deixou o passado para trás."
+
+380
+"E está cortando os laços com os fantasmas que desejam ressuscitar o orgulho militarista da era pré-guerra."
+
+387 //REVISAR
+"\"Já fazem 40 anos desde o fim da guerra e nós contribuímos ao mundo de várias formas pacíficas. Temos uma forte aliança com os Estados Unidos e nossa nação estabeleceu sua posição em [world affairs] bem o suficiente."
+
+"Nós mantemos nossa promessa de sempre renunciar a guerra e armas nucleares e somos conhecidos como uma nação de paz. Neste próximo século, nossa presença e influência irão crescer ainda mais.\""
+
+398 //REVISAR
+"O Alphabet Project, o maior patrocinador do Instituto Irie, é um grupo de pessoas que querem desenvolver uma arma que poderia agir como uma [deterrent] das armas nucleares que o Japão é proibido de ter."
+
+406 //REVISAR
+"...Então, eles vieram ao Instituto Irie, uma de suas [branch organizations], para nos dizer que o Japão agora renunciou armas nucleares..."
+
+//REVISAR
+"então o Instituto Irie vai enfrentar um forte e frio [headwind] a partir de agora."
+
+415 //REVISAR
+"A rolagem do dado que resultou em 1 naquele dia [stormy] reapareceu."
+
+423
+"......Eu não vou deixar o resultado de um dado me afetar."
+
+428
+"O poder da minha vontade não vai ser derrotado pelo rolar de dados de algum deus..."
+
+436 //REVISAR
+"\"Sendo assim, nós vamos reestruturar o Alphabet Project para um que seja mais compatível com [this day and age]. Este novo Alphabet Project terá a tarefa de descobrir a melhor forma para que este país possa conquistar uma presença maior em [world affairs], não por meios militaristas,"
+
+"mas por medidas pacifistas como trocas internacionais e desenvolvimento econômico.\""
+
+445
+"Todas as pessoas que têm uma enorme influência na política e na economia do Japão nasceram antes da guerra, então elas vão naturalmente querer recuperar a glória do Japão pré-guerra."
+
+453 //REVISAR
+"A própria ideia de que nós podemos ganhar na próxima vez se pesquisarmos a nova bomba que nos derrotou é, por si só, um [specter] da guerra."
+
+461
+"...Não, todo mundo já percebeu isso."
+
+466 //REVISAR
+"É só que simplesmente ninguém conseguiu falar nada contra os [grandstanding elders] os quais eles deviam sua gratidão."
+
+471 //REVISAR
+"Em breve, o velho irá [wither away] e a nova geração irá tomar o controle."
+
+476
+"O Tio Koizumi era, de certa forma, o último pilar que restava na velha geração."
+
+481 //REVISAR
+"A morte dele é uma chance para a nova geração [step in]."
+
+486
+"As coisas que eles não podiam argumentar abertamente agora estão sendo discutidas."
+
+494 //REVISAR
+"Eles [pointed out] desde o início, o Alphabet Project foi criado pela satisfação pessoal de um pequeno grupo de pessoas e sugava o dinheiro do [treasury]."
+
+499
+"Então, a nova geração de políticos..."
+
+//REVISAR
+"[taken over] a velha."
+
+514 //REVISAR
+"\"Sendo assim, tudo o que o Alphabet Project estava patrocinando será [re-reviewed]."
+
+"É claro, o Instituto Irie é um desses subsidiários."
+
+//REVISAR
+"Esperamos que vocês entendam e respondam [amicably].\""
+
+528
+"\"Eu entendo..."
+
+"Afinal, não podemos fazer a pesquisa sem os nossos patrocinadores."
+
+"Nós os daremos nossa cooperação total.\""
+
+537 //REVISAR
+"Irie respondeu apropriadamente, mas ele estava obviamente [bewildered]."
+
+544
+"Os melhores equipamentos e funcionários estão sendo providenciados ao Instituto Irie."
+
+549
+"Em outras palavras, nossa pesquisa precisa de uma enorme quantia de dinheiro."
+
+557 //REVISAR
+"Para aqueles sem interesse algum na Síndrome de Hinamizawa, eles provavelmente não serão capazes de entender por que tanto dinheiro está sendo colocado na pesquisa de parasitas [disgusting]."
+
+562
+"Se eles forem simplesmente revisar o nosso orçamento, estaria tudo bem."
+
+567
+"...Nós estávamos recebendo dinheiro mais do que o suficiente."
+
+572
+"Isso seria, naturalmente, ajustado."
+
+577
+"......Machuca, mas nós conseguimos aguentar."
+
+582
+"...Foi o que eu pensei."
+
+"...Mas se só aguentar bastasse, não seria um 1 no dado."
+
+592
+"...Então, mesmo nesse sentido"
+
+"...essa é, definitivamente, uma rolada do dado resultando em 1."
+
+605 //REVISAR
+"\"De qualquer forma, a nova [board] de diretores foi inaugurada em abril e eles [outlined] suas novas políticas para todos os projetos."
+
+"Para mais detalhes, por favor olhem os documentos que eu entregarei.\""
+
+612 //REVISAR
+"Os documentos foram [passed around]."
+
+620
+"Ele começou a entrar em detalhes, mas eu li rapidamente para saber das suas decisões estúpidas primeiros."
+
+626 //REVISAR
+"\"O Instituto Irie fez um [great headaway] descobrino o mistério da Síndrome de Hinamizawa, assim como criando uma cura para a doença."
+
+//REVISAR
+"A [board] de diretores está extremamente [pleased]. Nós reconhecemos que isto é devido aos esforços incessantes do Diretor Irie e de todos os funcionários do Instituto Irie.\""
+
+639
+//JP
+
+644 //REVISAR
+"Mesmo enquanto ele recebia os [congratulations], uma atmosfera tensa [surrounded] Irie e eu."
+
+649 //REVISAR
+"É [costumary] começar a conversa da forma oposta ao que você planeja chegar antes de [delving] no ponto principal a se [convey]."
+
+657
+"Se a questão principal for algo bom, comece com algo ruim."
+
+"...Ou vice versa."
+
+665
+"\"O Instituto Irie tinha duas intenções principais."
+
+//REVISAR
+"Uma delas era estudar a doença e [hopefully] encontrar uma cura."
+
+"A outra era pesquisar a possibilidade de utilizar a doença para aplicações militares."
+
+//REVISAR
+"A nova [board] de diretores decidiu pôr um fim à segunda imediatamente."
+
+//REVISAR
+"[In this day and age], pesquisar armas biológicas é um calcanhar de Aquiles para o Japão."
+
+"O Instituto Irie deve cessar qualquer pesquisa relacionada e destruir todos os resultados.\""
+
+689
+"\"Eu entendo."
+
+//REVISAR
+"Eu irei [comply].\""
+
+696
+"Irie respondeu imediatamente."
+
+704
+"Irie foi assertivo quanto a achar uma cura, mas nunca esteve minimamente interessado em pesquisar o uso da doença para fins militares."
+
+709 //REVISAR
+"Então tenho certeza que ele não tem [qualms] alguma quanto a atender tais demandas."
+
+714
+"Mas eu discordo."
+
+719
+"Porque a nossa pesquisa será mais limitada se nós só estivermos tentando encontrar uma cura."
+
+727
+"...Para mim, encontrar a cura é, simplesmente, uma consequência do meu objetivo maior de descobrir tudo sobre a síndrome."
+
+736 //REVISAR
+"\"Além disso, quanto ao Instituto Irie, decidimos que você deve [wrap up] o trabalho nos próximos três anos."
+
+"O orçamento também irá diminuir gradualmente.\""
+
+744
+"\"E-Espere, por favor...!"
+
+"Só recentemente nós conseguimos descobrir alguma coisa sobra a síndrome e ainda há mais que precisamos aprender a fim de criar uma cura melhor."
+
+750
+"Estamos fazendo progresso, mas não posso garantir que iremos desenvolver uma cura completa dentro de três anos.\""
+
+757 //REVISAR
+"\"É o entendimento da [board] que o Instituto Irie já [completed] pesquisa suficiente para desenvolver uma cura. O Instituto Irie já concluiu a vacina C117 e tem grande [deal] dos dados clínicos--\""
+
+763
+"\"Não, não está nem perto de concluída!!"
+
+//REVISAR
+"Ainda é apenas um protótipo e estamos longe de conseguir [see] uma cura para todos os moradores!"
+
+//REVISAR
+"Debater o fim da nossa pesquisa neste [stage] só pode ser descrito como [absolutely, positively reckless]!\""
+
+774 //REVISAR
+"Estou surpresa que o Irie [objected]."
+
+779
+"Graças a ele, eu não precisei falar nada."
+
+787
+"...Mas se o Irie não tivesse [objected], eu tenho certeza que eu teria [shrieked] em protesto."
+
+793
+"\"Em outras palavras, o Instituto Irie ainda não é capaz de curar todas as pessoas infectadas nem de erradicar a síndrome, é isso?\""
+
+799
+//DEVENDO
+
+"Claro, curar todos os moradores e erradicar a síndrome será possível no futuro, e esse é o nosso maior objetivo."
+
+//REVISAR
+"Mas eu preciso de mais tempo e, claro, de [funding] para fazer isso."
+
+809 //REVISAR
+"Nosso trabalho é investigar, encontrar uma prática que funciona e estabilizá-la como um produto. Este não é um trabalho onde é possível seguir uma [blueprint] para criar algo com [certainty] em um [set time frame]. Então esperamos que você evite seguir essa [misconception].\""
+
+816
+"Parece que o Irie fala quando ele precisa."
+
+821
+"E o que ele disse está absolutamente certo."
+
+826 //REVISAR
+"Pesquisa não é algo que é [garanteed] de fazer resultados com dinheiro e tempo."
+
+831
+"...Mas eu discordo com algumas das coisas que ele disse."
+
+836 //REVISAR
+"Ele está [objecting] quanto ao tempo e o dinheiro, mas ele está basicamente concordando em limitar a nossa pesquisa a apenas encontrar uma cura para a Síndrome de Hinamizawa."
+
+844
+//DEVENDO
+
+"Não vamos descobrir nenhum mistério dessa forma."
+
+//REVISAR
+"Nesse ritmo, a descoberta da Síndrome de Hinamizawa não vai ser reconhecida como um [great achievement] do meu avô!"
+
+856
+"\"Entendo. Acho que compreendi o que está dizendo."
+
+//REVISAR
+"Nosso propósito principal aqui é [dispose] do fato de que esta pesquisa foi conduzida para propósitos militares."
+
+862
+"Então precisamos sempre esconder o fato de que a pesquisa foi conduzida na estranha doença chamada Síndrome de Hinamizawa, assim como esconder a existência da própria doença."
+
+866
+"Se vocês conseguirem erradicar a doença sem que ninguém fique sabendo, então nós daremos o tempo e o dinheiro necessários."
+
+//REVISAR
+"...Mas discutiremos mais sobre isso depois. [Is that acceptable]?\""
+
+877
+//DEVENDO
+
+"Não tenho problema algum.\""
+
+885 //REVISAR
+"\"Então, por favor, [submit] um plano e uma proposta de orçamento para erradicar a síndrome em segurança."
+
+"Nós faremos o possível para aceitar a sua proposta.\""
+
+893
+"\"Obrigado."
+
+"Começarei a trabalhar nisso imediatamente.\""
+
+901 //REVISAR
+"\"Por favor, não entenda errado, pensando que nossa intenção é [halt] essa pesquisa imediatamente. Nós queremos ver o melhor resultado possível vindo do seu trabalho."
+
+"Por favor, entenda isso.\""
+
+909
+"\"Sim, claro, eu entendo.\""
+
+914 //REVISAR
+"......Enquanto conversava a conversa deles, eu estava [struck dumbfounded] com uma coisa que eles disseram."
+
+921
+"Erradicar a síndrome em sigilo."
+
+926
+"Em outras palavras, seria como se a Síndrome de Hinamizawa nunca tivesse existido."
+
+934
+"...Então o nome do meu avô nunca seria reverenciado por alguém..."
+
+942 //REVISAR
+"O som dos papéis [rustling] e [hushed proceedings] encheram a sala de reuniões, mas eu só ouvia o relógio [ticking] enquanto eu [clutched] as palmas suadas das minhas mãos."

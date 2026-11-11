@@ -1,0 +1,437 @@
+//OBS: só inglês
+
+12
+"Eu sempre quis ser médico desde que era pequeno."
+
+20
+"Médicos ganham bastante dinheiro."
+
+"As pessoas procuram por eles."
+
+"Acho que eram esses os meus motivos."
+
+29
+"Então, quando brincava com os meus amigos, eu sempre agia como um médico."
+
+34 //REVISAR: pacotes de gelo? tornozelo?
+"Eu limpava as feridas deles e aplicava pacotes de gelo quando eles torciam o tornozelo, usando o que eu aprendi em livros de cuidados médicos caseiros."
+
+42
+"Todos, incluindo eu mesmo, acreditavam que eu seria médico um dia."
+
+49
+"Minha família era pobre, então eles me elogiaram por esse objetivo."
+
+54
+"Eles me disseram que eu precisava estudar bastante para virar um médico, então eles pegaram emprestado alguns livros de pseudo-medicina da biblioteca para mim."
+
+59
+"A taxa de aluguel não era barata."
+
+68
+"Então, eu lia o livro inteiro bem rápido em um único dia e, no dia seguinte, meus pais voltavam à loja para trocá-lo por um livro diferente, dizendo que tinham pego um livro que já tinham pego antes por acidente. Fazendo assim, meus pais pegavam emprestado dois livros pelo preço de um."
+
+76
+"Claro, agora eu sei que aqueles livros eram bem inúteis, mas foram muito motivacionais ainda assim."
+
+83
+"Meus visinhos me chamavam de Dr. Kyousuke-kun e eu sempre escolhia ser o chefe de saúde da classe na escola."
+
+88
+"Até os professores me ajudavam com as aulas que eu precisava para me tornar um médico."
+
+96
+"Claro, na realidade, se tornar um médico não é tão fácil quanto parece."
+
+101 //REVISAR: rough?
+"Eu tive que estudar diligentemente e o caminho com certeza foi complicado."
+
+108
+"Para virar médico, é necessário ir à faculdade."
+
+113
+"Já que a minha família era pobre, me disseram que eu não podia ir a uma escola privada cara."
+
+"Então eu tinha que entrar em uma faculdade pública nacional."
+
+123 //REVISAR: taxa de admissão? marginal?
+"Minhas notas não eram ruins, mas a taxa de admissão em faculdades públicas nacionais são bem marginais."
+
+128
+"Principalmente por eu querer ir para uma escola médica, minhas chances eram ainda menores."
+
+136 //REVISAR
+"...Eu estudei [like crazy]."
+
+141 //REVISAR
+"Minha única [driving force] era o meu sonho de infância de me tornar um médico."
+
+149
+"Me tornar um médico e ser procurado por todos foi o que me manteve firme."
+
+154
+"...E eu fui aceito."
+
+159
+"Eu não estava no topo da lista, mas eu entrei. Eu finalmente estava no começo de realizar o meu sonho de infância."
+
+166 //REVISAR
+"Meus pais estavam [thrilled]."
+
+171
+"Nem meu pai, nem minha mãe fizeram faculdade, então eles estavam orgulhosos que o filho deles tinha entrado em uma de medicina. Eles chamaram nossos parentes para comemorar."
+
+179 //REVISAR
+"Mesmo sendo uma faculdade pública, a mensalidade não era barata. Mas eles ainda fizeram uma comemoração extravagante, de qualquer forma."
+
+184
+"Meu pai era do tipo de pessoa que não expressava tanto as emoções."
+
+192 //REVISAR: straight face
+"Ele sempre tinha uma cara fechada."
+
+"Ele raramente dava a própria opinião ou tomava alguma iniciativa."
+
+199 //REVISAR
+"Minha mãe cuidava de tudo, ele aparecia depois e saía sem dizer nada. Ele era o típico pai japonês [stern] e silencioso da época."
+Minha mãe cuidava de tudo, ele aparecia depois e saía sem dizer nada. Ele era o típico calado e teimoso da época.
+
+204
+"Por isso, eu me surpreendi quando vi ele chorando de alegria e chorei junto."
+Ainda lembro que, quando vi ele com o rosto tão alegre e com lágrimas nos olhos, acabei me surpreendendo e chorando junto
+
+209
+"Ele falou com todos os meus parentes enquanto dava vários tapinhas nas minhas costas, dizendo o quão orgulhoso e sortudo era de ter um filho como eu. Ele se gabou das minhas conquistas para todos que ouvissem."
+Ele falou com todos os meus parentes enquanto dava vários tapinhas nas minhas costas, dizendo o quão orgulhoso e sortudo era de ter um filho como eu. Ele olhava para mim e elogiava todo o meu esforço até então.
+
+214
+"A celebração se tornou a minha festa de despedida, já que eu estava prestes a partir para Tóquio."
+Essa celebração também acabou se tornando a minha festa de despedida, já que eu estava prestes a partir para Tóquio
+
+222
+"Meu pai gritou repetidamente \"banzai\" na estação, enquanto o trem partia."
+Enquanto o trem partia da estação, meu pai gritou \"banzai\" repetidas vezes, sem se importar com quem estava em volta
+
+230
+"Eu estava um pouco envergonhado..."
+
+"mas quando não pude mais ver meu pai, consegui sentir claramente as lágrimas descendo."
+
+243
+"Os dias de estudo infernais e provas começaram depois disso."
+
+248 //REVISAR
+"Alguns dias, eu me senti tentado a só desistir e me entregar ao estilo de vida [lavish] da cidade."
+
+253
+"Mas as cartas da minha família sempre me encorajavam e me davam a força para continuar."
+
+261
+"Meu sonho, então, era abrir a minha própria clínica na minha terra natal para poder contribuir com a região."
+
+266
+"Eu nunca sequer cogitei em me envolver com cérebros."
+
+275
+"Um dia, eu percebi uma diferença nas cartas da minha família."
+
+280
+"A carta dizia o de sempre, sobre como as coisas estavam indo em casa e me perguntando como eu estava."
+
+//REVISAR
+"Mas o que me chamou a atenção foi o [postscript]."
+
+287
+"\"Seu pai ficou bem violento recentemente."
+
+"Às vezes, ele revira a casa de cabeça para baixo e eu não sei o que fazer...\""
+
+294 //REVISAR
+"...Eu não conseguia nem imaginar ele agindo [viciously]. Eu estava extremamente surpreso."
+
+299
+"Alguma coisa aconteceu?"
+
+307 //REVISAR
+"...Mas, no [postscript], minha mãe disse que não conseguia pensar em nada."
+
+312
+"Meus pais estiveram juntos por um longo tempo."
+
+"Eles estiveram juntos desde bem antes de eu nascer."
+
+319
+"Então ela percebia coisas que eu não percebia."
+
+327
+"...Ela não conseguia pensar um motivo sequer para o meu pai ficar tão violento......"
+
+"O que aconteceu?"
+
+334 //REVISAR
+"Eles se davam tão bem. Eles eram um casal tão [lovely]."
+
+339 //REVISAR
+"Quando eu era criança e causei problemas para a minha mãe, ele só [bonked] minha cabeça com o punho dele."
+
+"Por que ele estava agindo desse jeito com a minha mãe?"
+
+346
+"Talvez teve algum tipo de mal entendido entre eles?"
+
+354
+"......Eu voltaria para casa por causa do ano novo."
+
+//REVISAR: good talk?
+"Talvez eu pudesse ter uma conversa com ele."
+
+363
+"Mas a situação era mais séria do que eu pensava."
+
+374
+"Em um dia frio de inverno,"
+
+"Eu encontrei a porta do meu apartamento destrancada."
+
+383
+"Eu achei que alguém tinha invadido... mas encontrei a minha mãe no meu apartamento com as coisas dela."
+
+388
+"...Sim."
+
+"A minha mãe não conseguia mais aguentar a raiva do meu pai e veio morar comigo."
+
+395 //REVISAR
+"Isso era na época que as pessoas ainda acreditavam no provérbio [insira aqui]."
+
+400
+"Ela não podia voltar para a própria família porque moravam na mesma região que o meu pai, então ela veio até Tóquio."
+
+405
+"Eu ouvi sobre a violência do meu pai pela boca da minha própria mãe."
+
+410
+"Ela chorou, dizendo que não tinha ideia do porquê um homem tão quieto tinha mudado tanto assim."
+
+418
+"Ela disse que nunca mais voltaria para ele."
+
+423
+"Eu não sabia o que fazer."
+
+431 //REVISAR
+"...Eu perguntei se ela poderia falar com ele mais uma vez, mas as [bruises] no corpo dela me diziam que era inútil."
+
+438
+"Lembrar o que aconteceu depois é demais, então vou ser breve."
+
+446
+"Depois que a minha mãe foi embora, meu pai achou que ela estava com um amante e foi à casa do visinho com uma espada de madeira."
+
+"Ele foi preso."
+
+456
+"Ele foi liberado imediatamente, mas ele achava que alguém na vizinhança estava escondendo ela, então ele fez a mesma coisa repetidamente."
+
+463 //REVISAR
+"Ele [eventually] chegou ao ponto de começar uma briga com qualquer que visse."
+
+"No fim, ele começou uma briga com uns [young punks] e acabou sendo espancado até a morte."
+
+471
+"Meus parentes deram ao meu pai um funeral decente, mas minha mãe não compareceu."
+
+479
+//JP
+
+484 //REVISAR: TUDO
+"Então, ninguém disse nada negativo sobre o meu pai, mas todos estavam simplesmente curiosos sobre como ele mudou tanto."
+
+489
+"O que eu ouvi dos meus parentes sobre os dias finais do meu pai foi bem mais estranho do que eu ouvi da minha mãe."
+
+497
+"Minha mãe só me falou sobre a raiva súbita e violência dele."
+
+502
+"Mas meus parentes me contaram que"
+
+"ele também ria e ficava triste."
+
+509
+"...Aparentemente, ele mostrava várias oscilações emotivas repentinas, principalmente nos últimos anos de vida."
+
+514
+"Eles também me disseram que ele começou a reclamar de dores de cabeça depois de um acidente que sofreu."
+
+519 //REVISAR
+"...Meu pai era um [construction worker]."
+
+527 //REVISAR
+"Ele bateu forte a cabeça em uma [construction board] durante um acidente no trabalho."
+
+532
+"Ele recuperou a consciência rápido e parecia bem..."
+
+"Mas, desde o acidente, ele começou a ter dores de cabeça e a se comportar de forma estranha."
+
+539
+"Eu percebi a ligação entre o acidente e o comportamento do meu pai, então falei com meu professor depois que voltei para Tóquio."
+
+547
+//IGUAL
+
+"Não consigo dizer com certeza, mas parece que é possível que seu pai tenha sofrido algum tipo de dano cerebral."
+
+//REVISAR
+"Há a chance de que aquela pancada o tenha causado uma [disorder] cerebral orgânica."
+
+"Os sintomas que seu pai mostrou em seus últimos anos são parecidos com o delírio e as flutuações mentais que vemos frequentemente em pacientes parecidos.\""
+
+562
+"O comportamento humano é criado pelo cérebro."
+
+"E, se o cérebro está danificado, pode causar comportamento errático."
+
+572 //REVISAR
+"Em outras palavras, meu pai não estava louco: ele estava sofrendo de uma [disorder]."
+
+578 //REVISAR: TUDO
+"\"Se você conseguir fazer uma autópsia nele, você deveria checar seu cérebro cuidadosamente."
+
+"Talvez você encontre algo como um tumor.\""
+
+589
+"Meu pai já tinha sido cremado."
+
+"Então não tinha como saber."
+
+598
+"Mas ouvindo sobre o comportamento dele, eu sabia."
+
+603
+"Esse era o único motivo que podia explicar a mudança de um homem tão quieto e gentil."
+
+611
+"......Eu tentei explicar isso aos meus parentes para tentar recuperar a honra do meu pai, mas quase ninguém entendeu."
+
+616
+"Se o cérebro foi danificado, ele deveria estar morto."
+
+621
+"Mas ele estava vivo e bem."
+
+629
+"Então o acidente não danificou o cérebro dele."
+
+634
+"Não foi o cérebro que fez ele mudar, foi a mente."
+
+//REVISAR
+"Eles simplesmente [brushed it off] desse jeito."
+
+641
+"...Essa é a percepção que a maior parte das pessoas têm sobre o cérebro."
+
+646
+"Elas não percebem que a mente e o cérebro estão conectados."
+
+651
+"A maioria dos meus parentes não acreditou em mim."
+
+656
+"......Ainda assim, tinha uma pessoa que eu queria que acreditasse."
+
+660
+"......Essa pessoa era a minha mãe."
+
+668 //REVISAR: senil?
+"Enquanto ela envelhecia, ela se tornou senil"
+
+"e ela exagerou o abuso que teve que aguentar."
+
+681
+"...Tudo o que ela fazia era criticar o meu pai."
+
+689
+"E, toda vez, ela acabava chorando, lamentando ter se casado com ele."
+
+694 //REVISAR
+"Eles eram um casal [lovely]."
+
+699
+"Nós éramos uma ótima família."
+
+707
+"É por isso que eu queria dizer a ela que ela estava entendendo mal a situação com o meu pai."
+
+712
+"O comportamento do meu pai foi causado pelo dano cerebral."
+
+720
+"...O que ele fez com ela foi muito triste, mas ele não queria que fosse assim."
+
+"Eu falei para ela que não era culpa dele."
+
+732
+"Mas... a minha mãe não entendeu."
+
+737 //REVISAR
+"[Before she took her last breaths], eu a implorei para perdoar o meu pai."
+
+745
+"Mas suas últimas palavras foram \"por favor, não me enterre ao lado daquele homem\"."
+
+753
+"......Não era culpa do meu pai."
+
+760 //REVISAR
+"Ele simplesmente foi vítima de uma [disorder] cerebral."
+
+765
+"Você não reclama para uma pessoa tossindo porque ela está resfriada."
+
+770
+"A tosse é só um sintoma, então ela deveria receber simpatia."
+
+778
+"No caso do meu pai, os sintomas não eram tão óbvios quanto uma tosse."
+
+"...Eles tomaram a forma de mudanças na personalidade, o que é muito mais difícil de reconhecer."
+
+785
+"Se eu tivesse estudado mais o cérebro, eu poderia ter explicado melhor à minha mãe para que ela tivesse entendido o meu pai."
+
+//REVISAR
+"Então eles poderiam ter sido um casal [nice] mais uma vez no céu."
+
+795
+"Quando percebi isso, eu chorei."
+
+800
+"E também percebi que existem várias outras pessoas neste mundo como o meu pai"
+
+//REVISAR
+"que estão sofrendo com uma [disorder], mas são mal compreendidos e [despised] por isso."
+
+812
+"Então, eu descobri."
+
+820 //REVISAR
+"Eu descobri uma cura milagrosa para esse tipo de [disorder] chamada 'lobotomia'."
+
+825
+"Desde aquele dia, eu passei meus dias estudando sobre o cérebro, para que eu pudesse ajudar as pessoas que estão sofrendo com doenças mentais."
+
+833
+"Meu pai se foi."
+
+"Mas, se ele ainda estivesse vivo, eu mesmo poderia curá-lo."
+
+840
+"Então ele e a minha mãe poderiam se reconciliar."
+
+848
+"Esse é o principal motivo"
+
+"de eu estar aqui."

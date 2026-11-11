@@ -1,0 +1,408 @@
+//OBS: só inglês
+
+14 //REVISAR
+"A Takano-san sempre vem comigo toda vez que eu vou tirar fotos [on a stroll]."
+
+19
+"Talvez ela tenha descoberto a alegria das câmeras e eu fico feliz de ter ganhado uma amiga com o mesmo hobby."
+
+27
+"Mas tem uma outra coisa que ela tem muito mais interesse."
+
+"...E essa coisa seria a história de Hinamizawa."
+
+37
+"Ela frequentemente visitava bibliotecas e arquivos locais para ler vários documentos e livros e, quando é sobre Hinamizawa, ela conseguiu um conhecimento bem grande da história local."
+
+47
+"Quando ela está de bom humor, ela me diz sobre coisas como o fato de que Hinamizawa costumava ser chamada de Vilarejo Onigafuchi e como os moradores lá faziam várias cerimônias cruéis baseadas no louvor a Oyashiro-sama."
+
+55
+"Parecia que ela gostava de histórias violentas e, na verdade, isso dá um charme misterioso a ela."
+
+60
+"...Por outro lado, eu não me dou bem com coisas grotescas, então eu mal conseguia dizer alguma coisa em resposta."
+
+65
+"As histórias de cerimônias cruéis que ela gosta tanto... Eu não entendo elas tão bem assim."
+
+73
+"Mas, com o jeito que os olhos dela se iluminam quando ela fala, eu não me importo de passar um tempo com ela mesmo se precisar falar de coisas cruéis."
+
+79
+"\"Você gosta mesmo dessas coisas, né?\""
+
+85
+"\"Claro, é divertido, né?"
+
+//REVISAR
+"É [thrilling] descobrir um passado sombrio que foi selado! Você não acha?\""
+
+92
+"Takano-san sorriu de um jeito que quase fez parecer que um passado sombrio é uma coisa divertida."
+
+100
+"...Mas é claro que não é."
+
+105 //REVISAR
+"O histórico sombrio de Hinamizawa que ela ama é algo cruel e [atrocious], como a caça às bruxas da época medieval."
+
+114
+"\"Além de que ele me ajuda na pesquisa da Síndrome de Hinamizawa."
+
+120
+"Você não precisa sempre olhar em um microscópio pra pesquisar as coisas. Às vezes, as tradições do vilarejo que já passou tanto tempo com o parasita pode nos ensinar coisas que são bem mais valiosas.\""
+
+126
+"\"É verdade."
+
+//DEVENDO
+
+137
+"\"Hihi."
+
+//DEVENDO
+
+"Entrar no desconhecido e descobrir um segredo que mais ninguém sabe... não acha isso incrível?"
+
+//REVISAR
+"[It tickles] minha curiosidade intelectual."
+
+"Esse deve ser o maior entretenimento disponível aos humanos, que conseguem sentir prazer só por pensar."
+
+"A primeira pessoa a trabalhar nisso, Dr. Takano, deve ter descoberto alguma coisa fascinante o suficiente pra fazer ele dedicar toda a vida dele à pesquisa da síndrome também."
+
+"...Acho que eu devo ser a única que conseguiria entender os sentimentos dele."
+
+"...Acho que é difícil pra você, Jirou-san, já que você não é pesquisador."
+
+"Hihihi.\""
+
+164
+"Ela sempre parece tão entusiasmada toda vez que fala sobre o falecido Dr. Takano, um pesquisador independente que foi a primeira pessoa a descobrir a existência da síndrome."
+
+169
+"Tem que ter algo além da simples admiração como uma pesquisadora."
+
+174
+"...Pensa só."
+
+179
+"O nome completo do Dr. Takano era Takano Hifumi."
+
+184
+"...O nome completo da Takano-san é Takano Miyo."
+
+189
+//JP
+
+"...Eles devem ter alguma conexão."
+
+199 //REVISAR
+"Eu não sei nada sobre o histórico pessoal da Takano-san, mas tem uma grande chande de que o nome dela é um [alias]."
+
+204
+"Então é bem possível que ela escolheu um nome que lembrasse o pesquisador que ela admira."
+
+210
+"\"Entendi..."
+
+"Então é por isso que você escolheu esse nome?\""
+
+221
+"\"......Hã?\""
+
+227
+"\"É que o nome do pesquisador que você admira é 'Takano Hifumi', né?"
+
+"E o seu é Miyo."
+
+//JP
+
+"Você tá continuando a pesquisa que ele não conseguiu terminar, então eu pensei que talvez esse fosse o motivo pra você ter esse nome.\""
+
+241
+"\"........................Quem te falou isso?\""
+
+247
+"\"...Hm?"
+
+"Não, ahahahaha, eu acabei de pensar isso."
+
+"Não escutei de ninguém.\""
+
+260
+"\"Hihi."
+
+"......Você tá certo."
+
+//REVISAR
+"Até me surpreende que você percebeu, Jirou-dan, já que você é bem [dense].\""
+
+270
+//DEVENDO
+
+//DEVENDO
+
+"Foi por isso que eu falei isso."
+
+"Até autores, como Edogawa Ranpo, usaram apelidos como forma de homenagem a outros autores que eles admiravam também."
+
+"Então eu imaginei que o nome que você usa é tipo o seu apelido, entendeu?\""
+
+288
+"\"Não, não é isso."
+
+"Takano Miyo é meu nome real."
+
+//JP
+
+298
+"\"Hm?"
+
+"Então é realmente o mesmo sobrenome do Dr. Takano?"
+
+//REVISAR
+"Isso aí é [even more of a surprise]!"
+
+"E Miyo ser o seu nome real também..."
+
+"Takano Miyo continuando o trabalho da vida de Takano Hifumi..."
+
+//REVISAR 
+"Que coincidência [fateful]!!\""
+
+314
+"\"Hihi."
+
+"Jirou-san, aí você tá parecendo fazer mais legal do que é."
+
+"Não tem nada a ver com o destino."
+
+"Até porque ele é o meu avô.\""
+
+326
+What -> Hm
+
+331
+"Essa é novidade."
+
+336
+"Do que eu tinha ouvido falar, a Takano-san tinha descoberto documentos sobre a Síndrome de Hinamizawa deixados pelo Dr. Takano depois da morte dele e decidiu continuar a pesquisa."
+
+344
+"Nunca tinha ouvido sobre eles serem parentes."
+
+353
+"\"Uma pessoa disse que deixaria uma impressão ruim se eu pedisse dinheiro pra continuar a pesquisa do meu avô, que talvez pensassem que eu tava tentando conseguir fundos pra um assunto da família."
+
+//DEVENDO
+
+359
+"Então, além do Tio Koizumi,"
+
+"você é a primeira pessoa que eu falo isso.\""
+
+367
+"\"............É...... É mesmo?"
+
+".........Entendi."
+
+"Então é por isso que você é tão empolgada com tudo isso.\""
+
+376
+"Agora eu entendo claramente."
+
+384
+"Ela realmente herdou o trabalho que o avô dela foi incapaz de terminar."
+
+390
+"\"Meu avô estudou a Síndrome de Hinamizawa não só pelo ponto de vista médico, mas também por documentos velhos e literatura."
+
+"Olhar as velhas histórias de um vilarejo que viveu com a síndrome por centenas de anos pode ser mais valioso que olhar por microscópios que aumentam as coisas em centenas de vezes. Meu avô me ensinou isso.\""
+
+401
+"\"......Entendi."
+
+"O seu avô deve ser ficar muito feliz que você tá terminando o trabalho que ele não conseguiu."
+
+"Ele deve ficar muito orgulhoso de você.\""
+
+414
+"\"Hihihihi."
+
+"Assim espero.\""
+
+421 //REVISAR
+"Eu disse uma coisa que a Takano-san normalmente me [tease]ria, mas ela não [tease]ou. Ela [nodded] e sorriu."
+
+429
+"......Sem sombra de dúvidas."
+
+"Ela é realmente a neta do Dr. Takano."
+
+440
+
+//DEVENDO
+
+//DEVENDO
+
+//DEVENDO
+
+//DEVENDO
+
+//DEVENDO
+
+//DEVENDO
+
+458
+"\"Então é por isso que o seu nome é Miyo, né?"
+
+"Eu acho um nome bonito.\""
+
+466
+"\"Obrigada."
+
+"Mas, por favor, guarda isso de neta só pra você."
+
+"Meus clientes nem sabem e eu não quero  nenhum problema desnecessário porque eles descobriram.\""
+
+476
+sure -> tá
+
+"Tá bom."
+
+"Esse é um segredo entre nós, né?\""
+
+485
+"Mesmo que seja só um segredo pequeno, é bom pensar que eu sou o único que sabe dele."
+
+491
+
+//DEVENDO
+
+//DEVENDO
+
+//REVISAR 
+"O caminho na minha frente é longo e [rough], mas eu vou conseguir."
+
+"Eu vou expôr os segredos da Síndrome de Hinamizawa.\""
+
+503
+"\"Eu vou te ajudar..."
+
+"...Ahaha, esse já é o meu trabalho, né?\""
+
+511
+//JP
+
+//DEVENDO
+
+"Só precisava ter dito que ia me ajudar.\""
+
+521
+//IGUAL
+
+"Beleza, eu vou te ajudar.\""
+
+529
+"\"Agora já era."
+
+//DEVENDO
+
+"Hihihi.\""
+
+538 //REVISAR
+"Nós rimos [cheerfully] juntos."
+
+543 //REVISAR
+"E depois que terminamos de rir, ela ficou séria de novo, e falou como se [to drive the point home]."
+
+556
+"\"Então lembra, Jirou-san."
+
+"Não diga a ninguém que eu sou neta dele, entendeu?\""
+
+564
+"\"Não vou dizer."
+
+"Eu prometo.\""
+
+572
+"\"Não é uma coisa ruim,"
+
+"mas eu não quero que os clientes cortem a verba por causa disso.\""
+
+580
+"\"Acho que eles não cortariam."
+
+"Mas eu não vou dizer nadinha!\""
+
+591
+"\"Promete?"
+
+//REVISAR 
+"Promete [本当の本当に]...?"
+
+"Essa pesquisa é o propósito da minha vida inteira."
+
+"A minha missão é terminar o trabalho do meu avô."
+
+//REVISAR 
+"Provar que a pesquisa [trampled] dele é realmente incrível que vai chocar o mundo e fazer todo mundo [praise] o meu avô que tá [perishing away] em baixo da terra, [eventually] o fazendo ascender como um deus. Esse é o sentido e o propósito da minha vida...... Jirou-san."
+
+"Se você disser alguma coisa que cria problemas pra minha pesquisa...!!\""
+
+613
+"\"Re-Relaxa. Eu vou esquecer de tudo o que você me disse aqui.\""
+
+619
+//IGUAL 
+
+625
+"\"É sério."
+
+"Não vou dizer nada.\""
+
+633
+//IGUAL
+
+639
+"\"Eu prometo."
+
+"...Não vou dizer nada.\""
+
+648
+"\"...Promete, Jirou-san?\""
+
+654 //REVISAR
+"Eu senti algo [frightening] dentro dela por um momento."
+
+662 //REVISAR
+"Com medo de que ela acabasse [possessed by it], eu jurei manter a promessa."
+
+667 //REVISAR
+"A curiosidade intelectual como pesquisadora e a convicção para terminar o trabalho do avô são o que [stirs] a paixão dela pela pesquisa da Síndrome de Hinamizawa."
+
+675
+"......Eu acho que tem mais um motivo,"
+
+"mas é profundo demais"
+
+"e dentro de uma ferida no coração dela que alguém como eu nunca deveria tocar."
+
+690
+"Mas, antes..."
+
+698
+"Ela disse..."
+
+"\"Se você criar problemas para a minha pesquisa...\", o que será que ela queria dizer depois disso?"
+
+705
+//DEVENDO
+
+710
+"Eu mantive minha promessa com ela"
+
+"e nunca mais comentamos sobre o assunto outra vez."

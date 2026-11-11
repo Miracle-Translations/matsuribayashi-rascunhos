@@ -1,0 +1,340 @@
+代議士 / Congressman / [Congressman]
+
+//OBS: Só inglês
+
+13
+"\"Ei, Nakagawa-kun!"
+
+"Há quanto tempo!"
+
+//JP
+
+//JP
+
+//IGUAL
+
+31
+"\"Não, não, de jeito nenhum."
+
+"Não é nada divertido envelhecer.\""
+
+40
+'\"Você precisa se concentrar quando está trabalhando com argila."
+
+//REVISAR
+"Se você puxar por tempo demais, seus sentidos ficam [dull] e [there's no point]!!\""
+
+49
+"\"Sensei, permita-me te apresentar uma pessoa."
+
+"Esta é a Major Takano.\""
+
+58
+"\"Muito prazer em conhecê-lo."
+
+//REVISAR
+"Agradeço por [taking time] para encontrar-se comigo hoje. [I truly appreciate it].\""
+
+68 //REVISAR
+"\"Ah, eu [really] não [make time] para você, [actually]."
+
+//REVISAR
+"Me disseram que eu poderia comer [some good raw sea urchins]!!"
+
+//REVISAR
+"[Sea urchins are good for you], sabia? Ricos em vitamina A e são bons para a pele."
+
+//REVISAR
+"Mulheres gostam de [sea urchins], não é?"
+
+//IGUAL
+
+86 //REVISAR
+"É verdade que [sea urchins] são ricos em vitamina A, mas comparados a espinafre, não é nada que valha a pena [making a fuss about]."
+
+94
+"Não, nada disso importa agora."
+
+99 //REVISAR
+"Ele só parecia ser um homem [unpleasant], então eu queria criticá-lo."
+
+104 //REVISAR
+"Estes homens são os diretores do Alphabet Project, aqueles que controlam o [funding] do Instituto Irie."
+
+109
+//DEVENDO
+
+117
+"Falando de forma mais simples, eles são os novos donos do Instituto Irie."
+
+122
+"Mesmo que não tanto quanto o Tio Koizumi era, eles também são líderes e influenciadores em vários campos."
+
+127
+"Preciso ser bem cuidadosa para não ofendê-los."
+
+132
+"Sendo assim, seria impossível que eu tivesse a capacidade de chamá-los."
+
+137
+"Usando a influência que a facção Koizumi já teve, eu finalmente consegui essa chance."
+
+145
+"Tio Koizumi, que me deu total suporte e fez tudo acontecer como eu queria não está mais aqui."
+
+150
+"Estou por conta própria a partir de agora e vou abrir um caminho."
+
+156
+"Mas este palco ainda não me pertence hoje."
+
+161 //REVISAR
+"Não posso deixar as pessoas que me ofereceram essa chance [lose face], então preciso esperar pacientemente até que seja a minha vez."
+
+169
+"Meu principal objetivo hoje é explicar o quão prominente é a Síndrome de Hinamizawa como objeto de pesquisa, e adquirir uma extensão indefinida para a nossa pesquisa."
+
+174
+"Eles só pensam em dinheiro, então eles ainda nem perceberam o potencial escondido da Síndrome de Hinamizawa."
+
+179
+"Eles não percebem que é algo que vale a pena gastar muito dinheiro."
+
+184 //REVISAR
+"Essa não é só uma simples pesquisa de um parasita desconhecido, mas algo que pode [overthrow] os fundamentos da antropologia."
+
+189
+"Nem mesmo um Prêmio Nobel seria o suficiente."
+
+197
+"......Não vai ser fácil explicar tudo isso para homens que não sabem de nada, mas eu preciso."
+
+202 //REVISAR
+"Foi por isso que eu passei tantas horas fazendo esses [straightforward support documents]."
+
+207
+"Às vezes, fazemos documentos confusos de propósito porque não gostamos de lidar com pessoas sem educação, mas, desta vez, é diferente."
+
+215
+"Eu não posso subestimar eles. Eu preciso sinceramente fazer eles entenderem."
+
+220 //REVISAR
+"Os documentos de [support] acessíveis estão lá em uma pilha enorme."
+
+225
+//JP
+
+230
+"Eu quero ir direto ao ponto e explicar em detalhes para que eles entendam."
+
+238
+//DEVENDO
+
+"...Eu preciso ser paciente por enquanto."
+
+255
+//IGUAL
+
+//REVISAR
+"Francamente, eu pensei que o Alphabet Project que tínhamos visto não era tão bom."
+
+//REVISAR
+"No fim das contas, não é nada além de uma [sandbox] para os homens velhos que ainda estão presos na [Pacific War].\""
+
+267 //REVISAR
+"\"Nada além de uma [sandbox] para que esses homens velhos construam seus sonhos de [revival] do Japão Imperial com dinheiro que não é deles."
+
+//REVISAR
+"Sabe quanto [public funding] foi gasto nessas ilusões?\""
+
+276 //REVISAR
+"\"Pelo que eu ouvi falar, já tem procuradores incomodando pessoas como o Okuno-sensei e tentando [pin embezzlement] na velha [board of directors].\""
+
+282
+//IGUAL
+
+//DEVENDO
+
+//REVISAR
+"Claro, não dá pra deixar nada público, então acho que eles vão ser responsabilizados ou [demoted] de outras formas."
+
+292
+"É isso que esse país consegue deixando esses fantasmas da guerra livres por aí esse tempo todo!"
+
+//DEVENDO
+
+//IGUAL
+
+304
+//DEVENDO
+
+"Eu sei que é muito difícil de perguntar isso para vocês já que vocês pensam assim, mas..."
+
+"Posso pegar emprestado um pouquinho do tempo de vocês?\""
+
+316
+"\"Ehh, você é do Instituto Irie, certo?"
+
+"Você está pesquisando algum tipo de doença local em Nagano ou Gifu, não é?"
+
+//JP
+
+328 //REVISAR
+"\"A [board] decidiu [to halt] a pesquisa em aplicações militares."
+
+331 //REVISAR
+"O projeto da pesquisa em si também deve [wrap up] em até três anos."
+
+334
+"Ah, não, desculpa, isso ainda está sendo discutido."
+
+338
+"De qualquer forma, nosso trabalho está programado para acabar em alguns poucos anos.\""
+
+347
+yes → sim
+
+350
+"Lembrei, lembrei."
+
+353 //REVISAR
+"O Instituto Irie tem uma má reputação até entre a [board] de diretores."
+
+356
+//DEVENDO
+
+362
+//DEVENDO
+
+365 //REVISAR
+"Por isso, ninguém podia dizer nada e acabou sendo [left alone].\""
+
+371
+//DEVENDO
+
+374
+//DEVENDO
+
+379
+"Ele tá insinuando que eu dormi com o Tio Koizumi?"
+
+387
+"Ele tá insultando nós dois."
+
+392
+"Mas eu segurei a minha raiva."
+
+394
+"Não posso me deixar levar por uma coisa dessas."
+
+402
+"\"......De qualquer forma, hoje vim explicar a vocês os detalhes da pesquisa do Instituto e pedir para que reconsiderem a decisão."
+
+406
+//DEVENDO
+
+412
+//DEVENDO
+
+//IGUAL
+
+420
+"Eu expliquei para eles o quanto a Síndrome de Hinamizawa importava enquanto tomava muito cuidado para não ir rápido demais."
+
+425 //REVISAR
+"Eu tentei mostrar a eles que o potencial da síndrome não é limitado a coisas pequenas como aplicações militares, mas é muito mais [meaningful] que isso."
+
+431
+"Pode até explicar a ideologia e a religião."
+
+436
+"Pode até mudar a própria definição de um ser humano."
+
+"Eu passei bastante tempo para explicar o mais lenta e claramente possível."
+
+443 //REVISAR
+"Eu não tenho certeza se esses homens [boorish] entenderam tudo, mas fico feliz se entenderam pelo menos uma parte."
+
+448
+"Pelo menos enquanto entenderam o quão magnífica é a descoberta da Síndrome de Hinamizawa."
+
+463
+Thank you → Obrigado
+
+I see → entendi
+
+//IGUAL
+
+475
+"\"Nós gostaríamos de discutir privadamente, então poderia se retirar, por favor?\""
+
+481
+Yes → Sim
+
+Thank you → Obrigada
+
+489
+"Obviamente, eles não podem discutir na minha frente."
+
+494
+"Deixei todos os documentos com eles."
+
+//REVISAR
+"Tudo o que eu poderia esperar agora é que eles [viewed them favorably]."
+
+503
+"Eu saí da sala e fechei a porta deslizante."
+
+//REVISAR
+"A sala ao lado é uma sala de espera, [so I was head there]."
+
+510
+"Mas eu parei."
+
+"...Eu não deveria ter feito, mas eu tentei escutar através da porta."
+
+521
+"\"Bom... wahahahaha, nem sei o que dizer."
+
+//DEVENDO
+
+532
+//JP
+
+//JP
+
+541
+"\"Eu já falei com ele uma vez, quando ele virou o [founding director] da [XX Pharmaceuticals]. Ele parecia ser uma pessoa bem inteligente...\""
+
+//IGUAL
+
+549
+//DEVENDO
+
+//DEVENDO
+
+558
+"\"Mas é verdade que essa doença chamada de Síndrome de Hinamizawa existe mesmo."
+
+"Então nem tudo é ilusão...\""
+
+567
+"\"O Instituto Irie não teve sucesso em identificar a doença e desenvolver uma cura?"
+
+"Já não é o suficiente?\""
+
+576
+"\"No Japão moderno, precisamos tomar cuidado com coisas que podem deixar países visinhos irritados."
+
+"E questões relacionadas ao aspecto militar são as mais sensíveis."
+
+583
+"Então, no mínimo, precisamos apagar imediatamente o fato de que essa pesquisa com propósitos militares esteve acontecendo durante os últimos anos.\""
+
+589
+"\"E isso é diferente de só descontinuar a pesquisa militar?\""
+
+595
+Yes → Sim
+
+598
